@@ -3,8 +3,7 @@
 A comprehensive, interactive Excel-based Data Analytics Dashboard analyzing Swiggy's sales, orders, and customer ratings performance across various regions, time frames, and food categories in India.
 
 ## 🚀 Repository Name Idea
-`swiggy-sales-analytics-dashboard` or `swiggy-excel-performance-insights`
-
+`swiggy-sales-dashboard` 
 ---
 
 ## 📌 Project Overview
